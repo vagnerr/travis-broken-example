@@ -1,5 +1,5 @@
 language: php
-dist: precise
+dist: Intrepid
 php:
   - 5.5
   - 5.4
